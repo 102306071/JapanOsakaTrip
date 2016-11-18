@@ -1,0 +1,13 @@
+document.writeln("    <div id=\'header_wrap\' class=\'outer\'>");
+document.writeln("        <header class=\'inner\'>");
+document.writeln("          <a id=\'forkme_banner\' href=\'https://drive.google.com/open?id=1Z64VzW5SeUuia9U09YW4vMVvFpM&usp=sharing\' target=\'_blank\'>View on Google Map</a>");
+document.writeln("");
+document.writeln("          <h1 id=\'project_title\'>Japan Osaka Trip</h1>");
+document.writeln("          <h2 id=\'project_tagline\'></h2>");
+document.writeln("");
+// document.writeln("            <section id=\'downloads\'>");
+// document.writeln("              <a class=\'zip_download_link\' href=\'https://github.com/102306071/JapanOsakaTrip/zipball/master\'>Download this project as a .zip file</a>");
+// document.writeln("              <a class=\'tar_download_link\' href=\'https://github.com/102306071/JapanOsakaTrip/tarball/master\'>Download this project as a tar.gz file</a>");
+// document.writeln("            </section>");
+document.writeln("        </header>");
+document.writeln("    </div>");
