@@ -376,33 +376,6 @@ Full-Width Styles
   display:block;max-width:100%;height:auto
 }
 
-.iframe-responsive {
-position: relative;
-padding-bottom: 65.25%;
-padding-top: 30px;
-height: 0;
-overflow: auto; 
--webkit-overflow-scrolling:touch; //<<--- THIS IS THE KEY 
-border: solid black 1px;
-} 
-.iframe-responsive iframe {
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-}
-
-.embed-responsive .embed-responsive-item,.embed-responsive embed,.embed-responsive iframe,.embed-responsive object,.embed-responsive video{
-  position:absolute;top:0;bottom:0;left:0;width:100%;height:100%;border:0
-}
-.embed-responsive-16by9{
-    padding-bottom:56.25%
-}
-.embed-responsive-4by3{
-  padding-bottom:75%
-}
-
 .iframe-container{
     position: relative;
     width: 100%;
