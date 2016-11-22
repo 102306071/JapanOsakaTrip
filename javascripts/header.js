@@ -2,7 +2,7 @@ document.writeln("<div id=\'header_wrap\' class=\'outer\'>");
 document.writeln("        <header class=\'inner\'>");
 document.writeln("          <a id=\'forkme_banner\' href=\'https://github.com/102306071/JapanOsakaTrip\'>View on Google Map</a>");
 document.writeln("");
-document.writeln("          <h1 id=\'project_title\'><a href=\'index.html\'></a>Japan Osaka Trip</h1>");
+document.writeln("          <h1><a id=\'project_title\' href=\'index.html\'>Japan Osaka Trip</a></h1>");
 document.writeln("          <nav class=\'navbar navbar-inverse\'>");
 document.writeln("            <div class=\'container-fluid\'>");
 document.writeln("              <!-- Brand and toggle get grouped for better mobile display -->");

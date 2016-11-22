@@ -1,10 +1,13 @@
-document.writeln("  <head>");
-document.writeln("    <meta charset=\'utf-8\'>");
 document.writeln("    <meta http-equiv=\'X-UA-Compatible\' content=\'chrome=1\'>");
 document.writeln("    <meta name=\'description\' content=\'Japanosakatrip : \'>");
+document.writeln("    <meta name=\'viewport\' content=\'width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;\'>");
 document.writeln("");
 document.writeln("    <link rel=\'stylesheet\' type=\'text/css\' media=\'screen\' href=\'stylesheets/stylesheet.css\'>");
 document.writeln("    <link rel=\'stylesheet\' type=\'text/css\' media=\'screen\' href=\'stylesheets/bootstrap.css\'>");
+document.writeln("    <!-- jQuery函式庫 -->");
+document.writeln("    <script src=\'https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js\'></script>");
+document.writeln("    <!-- Bootstrap的js函式庫 -->");
+document.writeln("    <script src=\'javascripts/bootstrap.min.js\'></script>");
+document.writeln("");
 document.writeln("");
 document.writeln("    <title>Japan Osaka Trip</title>");
-document.writeln("  </head>");
