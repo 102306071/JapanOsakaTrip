@@ -378,6 +378,7 @@ Full-Width Styles
 
 /*bootstrap*/
 
+
 .img-responsive,.thumbnail a>img,.thumbnail>img{
   display:block;max-width:100%;height:auto
 }
