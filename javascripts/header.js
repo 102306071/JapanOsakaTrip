@@ -19,7 +19,7 @@ document.writeln("              <!-- Collect the nav links, forms, and other con
 document.writeln("              <div class=\'collapse navbar-collapse\' id=\'bs-example-navbar-collapse-1\'>");
 document.writeln("                <ul class=\'nav navbar-nav\'>");
 document.writeln("                  <li><a href=\'makeup.html\'>化妝品</a></li>");
-document.writeln("                  <li><a href=\'yodobashi.html\'>Yodobashi</a></li>");
+document.writeln("                  <li><a href=\'yodobashi.html\'>代購</a></li>");
 document.writeln("                  <li><a href=\'usj.html\'>環球影城</a></li>            ");
 document.writeln("                </ul>");
 document.writeln("              </div><!-- /.navbar-collapse -->");
