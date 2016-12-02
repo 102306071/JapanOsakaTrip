@@ -20,6 +20,7 @@ document.writeln("              <div class=\'collapse navbar-collapse\' id=\'bs-
 document.writeln("                <ul class=\'nav navbar-nav\'>");
 document.writeln("                  <li><a href=\'makeup.html\'>化妝品</a></li>");
 document.writeln("                  <li><a href=\'yodobashi.html\'>代購</a></li>");
+document.writeln("                  <li><a href=\'coupon.html\'>優惠卷</a></li>");
 document.writeln("                  <li><a href=\'usj.html\'>環球影城</a></li>            ");
 document.writeln("                </ul>");
 document.writeln("              </div><!-- /.navbar-collapse -->");
