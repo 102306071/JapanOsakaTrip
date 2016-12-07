@@ -1,6 +1,5 @@
 document.writeln("    <meta http-equiv=\'X-UA-Compatible\' content=\'chrome=1\'>");
 document.writeln("    <meta name=\'description\' content=\'Japanosakatrip : \'>");
-document.writeln("    <meta name=\'viewport\' content=\'width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;\'>");
 document.writeln("");
 document.writeln("    <link rel=\'stylesheet\' type=\'text/css\' media=\'screen\' href=\'stylesheets/stylesheet.css\'>");
 document.writeln("    <link rel=\'stylesheet\' type=\'text/css\' media=\'screen\' href=\'stylesheets/bootstrap.css\'>");
