@@ -1,6 +1,6 @@
 document.writeln("<div id=\'header_wrap\' class=\'outer\'>");
 document.writeln("        <header class=\'inner\'>");
-document.writeln("          <a id=\'forkme_banner\' href=\'https://github.com/102306071/JapanOsakaTrip\'>View on Google Map</a>");
+document.writeln("          <a id=\'forkme_banner\' href=\'https://www.google.com/maps/d/edit?mid=1Z64VzW5SeUuia9U09YW4vMVvFpM&ll=34.735115262168335%2C135.54220585000007&z=10\' target=\'_blank\'>View on Google Map</a>");
 document.writeln("");
 document.writeln("          <h1><a id=\'project_title\' href=\'index.html\'>Japan Osaka Trip</a></h1>");
 document.writeln("          <nav class=\'navbar navbar-inverse\'>");
